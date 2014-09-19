@@ -1,7 +1,7 @@
 textblob-align
 ==============
 
-``TextBlob`` model extension: sentence alignment for parallel TextBlobs
+[TextBlob](http://textblob.readthedocs.org/en/dev/) model extension: sentence alignment for parallel TextBlobs
 
 Currently hosted in private repository.
 
